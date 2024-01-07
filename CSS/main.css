@@ -1,0 +1,44 @@
+body{
+  background-color: #6cc9e0;
+  font-family: 'Cormorant', serif;
+}
+
+h1{
+    color: #3719e0;
+    text-align: center;
+}
+
+h2{
+    color: #3719e0;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: #435ee0;
+}
+
+div.list{
+    text-align: center;
+  }
+  
+  ul.bullets{
+    display: inline-block;
+    text-align: left;
+    color: #435ee0;
+  }
+
+  .image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .link{
+    text-align: center;
+  }
+
+ button{
+  background-color: #43e0cb;
+  color: #3719e0
+ }
